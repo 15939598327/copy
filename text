@@ -1,0 +1,2 @@
+git add text.txt
+git commit -m "添加text.txt文件" text.txt
